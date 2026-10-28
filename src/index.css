@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
