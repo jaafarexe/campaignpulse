@@ -1,0 +1,6 @@
+{
+  "name": "CampaignPulse Analytics",
+  "description": "Comprehensive marketing analytics dashboard tracking impressions, clicks, conversions, spend, CTR, ROAS, and multi-channel performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
